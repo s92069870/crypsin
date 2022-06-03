@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Main banner" src="https://image.shutterstock.com/image-vector/set-gold-silver-crypto-currencies-260nw-775898248.jpg"/>
+  <HelloWorld msg="Welcome to crypto sinhala"/>
 </template>
 
 <script>
@@ -23,4 +23,14 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+body{
+  background-color: black;
+  height: 100%;
+}
+img{
+
+  height:auto;  
+  width: 100%;
+}
+
 </style>
